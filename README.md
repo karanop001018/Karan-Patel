@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Karan Patel</h1>
 <h3 align="center">CSE Student | Exploring the world of code | Tech Enthusiast</h3>
 <br>
-![Hacksquad ticket](https://github.com/karanop001018/Karan-Patel/assets/96780293/4b1b898e-15f3-4935-9be7-73b89beebfc0)
+![273036359-4b1b898e-15f3-4935-9be7-73b89beebfc0](https://github.com/karanop001018/Karan-Patel/assets/96780293/18e39f3b-0e2b-43e8-afc9-6f00831a98b9)
+
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karanop001018&label=Profile%20views&color=0e75b6&style=flat" alt="karanop001018" /> </p>
