@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Karan Patel</h1>
 <h3 align="center">CSE Student | Exploring the world of code | Tech Enthusiast</h3>
+<br>
+![Hacksquad ticket](https://github.com/karanop001018/Karan-Patel/assets/96780293/4b1b898e-15f3-4935-9be7-73b89beebfc0)
 
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karanop001018&label=Profile%20views&color=0e75b6&style=flat" alt="karanop001018" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karanop001018" alt="karanop001018" /></a> </p>
