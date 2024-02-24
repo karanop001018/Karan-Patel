@@ -3,7 +3,7 @@
 <h3 align="center">CSE Student | Exploring the world of code | Tech Enthusiast | AI/ML Enthusiast</h3>
 ###
 
-<div align="right">
+<div align="center">
   <img height="200" src="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif"  />
 </div>
 <br>
